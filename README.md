@@ -1,2 +1,2 @@
 # clone-tabnews
-Clone do tabnews.com.br para treino.
+Clone do https://tabnews.com.br para treino.
